@@ -1,0 +1,108 @@
+{
+  "platform": "ShopEasy",
+  "version": "1.0",
+  "users": [
+    {
+      "id": 101,
+      "name": "Alice Johnson",
+      "email": "alice.j@example.com",
+      "address": {
+        "street": "123 Maple Street",
+        "city": "Pune",
+        "country": "India"
+      },
+      "orders": [
+        {
+          "order_id": "ORD-5001",
+          "date": "2026-01-02",
+          "status": "Shipped",
+          "items": [
+            {
+              "product_id": "P-1001",
+              "name": "Wireless Headphones",
+              "quantity": 1,
+              "price": 79.99
+            },
+            {
+              "product_id": "P-1002",
+              "name": "Smartwatch",
+              "quantity": 1,
+              "price": 149.99
+            }
+          ],
+          "total": 229.98
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Rahul Mehta",
+      "email": "rahul.m@example.com",
+      "address": {
+        "street": "45 Lotus Avenue",
+        "city": "Mumbai",
+        "country": "India"
+      },
+      "orders": [
+        {
+          "order_id": "ORD-5002",
+          "date": "2026-01-03",
+          "status": "Processing",
+          "items": [
+            {
+              "product_id": "P-1003",
+              "name": "Gaming Laptop",
+              "quantity": 1,
+              "price": 1299.99
+            }
+          ],
+          "total": 1299.99
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "product_id": "P-1001",
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 79.99,
+      "stock": 120,
+      "reviews": [
+        {
+          "user_id": 101,
+          "rating": 5,
+          "comment": "Great sound quality!"
+        },
+        {
+          "user_id": 102,
+          "rating": 4,
+          "comment": "Comfortable but battery life could be better."
+        }
+      ]
+    },
+    {
+      "product_id": "P-1002",
+      "name": "Smartwatch",
+      "category": "Wearables",
+      "price": 149.99,
+      "stock": 75,
+      "reviews": []
+    },
+    {
+      "product_id": "P-1003",
+      "name": "Gaming Laptop",
+      "category": "Computers",
+      "price": 1299.99,
+      "stock": 30,
+      "reviews": [
+        {
+          "user_id": 102,
+          "rating": 5,
+          "comment": "Runs all my games smoothly!"
+        }
+      ]
+    }
+  ]
+}
+
