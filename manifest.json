@@ -11,12 +11,12 @@
         {
             "sourcePath": "/Test/",
             "filePatterns": [
-                "Hotfix.doc"
+                "Check automation.docx"
             ],
             "targets": [
                 {
                     "targetLanguage": "de-DE",
-                    "targetPath": "source/locale",
+                    "targetPath": "Test/Create_Target/de-DE",
                     "targetName": "suffix::_de"
                    
                 }
@@ -25,7 +25,7 @@
         {
             "sourcePath": "Test",
             "filePatterns": [
-                "CGIT test.json"
+                "Test automation.json"
             ],
             "targets": [
                 {
@@ -38,20 +38,20 @@
          {
             "sourcePath": "/Test/",
             "filePatterns": [
-                "Project.docx"
+                "Test data.xml"
             ],
             "targets": [
                 {
                     "targetLanguage": "de-DE",
                     "targetPath": "Test/Create_Target/de-DE/",
-                    "targetName": "suffix::_Hotfix-de"
+                    "targetName": "suffix::_de"
                 }
             ]
         },
         {
             "sourcePath": "/Source/",
             "filePatterns": [
-                "Multi test.docx"
+                "Multi test.doc"
             ],
             "targets": [
                 {
