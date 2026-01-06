@@ -1,21 +1,21 @@
-{   
- "sourceLanguage": "en-US",
-    
-"sourcePath": "/Test",
-  "fileType": ".doc,.json,.xml",
-  "fileNames" : ["abc.doc","GIT test.json","Git data.xml"],
-	"custom_attributes":{
-		
-		"Attribute-1":"abc67676",
-		"Attribute-3":"abc22",
-		"Attribute-2":"value1"
-	},
-   "target": [
+{
+    "sourceLanguage": "en-US",
+    "sourcePath": "/Test",
+    "fileType": ".doc,.json,.xml",
+    "fileNames": [
+        "abc.doc",
+        "GIT test.json",
+        "Git data.xml"
+    ],
+    "custom_attributes": {
+        "Attribute-1": "abc67676",
+        "Attribute-3": "abc22",
+        "Attribute-2": "value1"
+    },
+    "target": [
         {
             "targetLanguage": "de-DE",
-	        "targetPath": "source/locale"
+            "targetPath": "source/locale"
         }
-	   
-	  
     ]
 }
