@@ -23,7 +23,7 @@
             ]
         },
         {
-            "sourcePath": "/source/locale/",
+            "sourcePath": "Test",
             "filePatterns": [
                 "CGIT test.json"
             ],
@@ -49,15 +49,15 @@
             ]
         },
         {
-            "sourcePath": "/Test/",
+            "sourcePath": "/Source/",
             "filePatterns": [
-                "abc.xml"
+                "Multi test.docx"
             ],
             "targets": [
                 {
-                    "targetLanguage": "it-IT",
-                    "targetPath": "Test/Create_Target/it-IT/",
-                    "targetName": "suffix::_hotfix-it"
+                    "targetLanguage": "de-DE",
+                    "targetPath": "Source/Target/de-DE/",
+                    "targetName": "suffix::_de"
                 }
             ]
         }
