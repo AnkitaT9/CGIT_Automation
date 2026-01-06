@@ -1,0 +1,107 @@
+{
+  "platform": "ShóõpËæásy",
+  "version": "1.0",
+  "users": [
+    {
+      "id": 101,
+      "name": "Àlììcêé Jôóhnsôón",
+      "email": "æålìícéê.j@éêxæåmpléê.cõôm",
+      "address": {
+        "street": "123 Màåpléê Stréêéêt",
+        "city": "Püùnéè",
+        "country": "Índííäã"
+      },
+      "orders": [
+        {
+          "order_id": "ÒRD-5001",
+          "date": "2026-01-02",
+          "status": "Shïìppëèd",
+          "items": [
+            {
+              "product_id": "P-1001",
+              "name": "Wíírèêlèêss Hèêåãdphöónèês",
+              "quantity": 1,
+              "price": 79.99
+            },
+            {
+              "product_id": "P-1002",
+              "name": "Smäärtwäätch",
+              "quantity": 1,
+              "price": 149.99
+            }
+          ],
+          "total": 229.98
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Rãâhûýl Mëêhtãâ",
+      "email": "ræãhúùl.m@èêxæãmplèê.cöóm",
+      "address": {
+        "street": "45 Lóõtùüs Ævêënùüêë",
+        "city": "Mùûmbæäîí",
+        "country": "Îndìíâà"
+      },
+      "orders": [
+        {
+          "order_id": "ÔRD-5002",
+          "date": "2026-01-03",
+          "status": "Pròöcêêssíîng",
+          "items": [
+            {
+              "product_id": "P-1003",
+              "name": "Gäâmíïng Läâptôòp",
+              "quantity": 1,
+              "price": 1299.99
+            }
+          ],
+          "total": 1299.99
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "product_id": "P-1001",
+      "name": "Wîírèélèéss Hèéãâdphóónèés",
+      "category": "Êlééctròõnïïcs",
+      "price": 79.99,
+      "stock": 120,
+      "reviews": [
+        {
+          "user_id": 101,
+          "rating": 5,
+          "comment": "Grééãät sõõûûnd qûûãälìîty!"
+        },
+        {
+          "user_id": 102,
+          "rating": 4,
+          "comment": "Cöõmföõrtãàblëè büút bãàttëèry lîîfëè cöõüúld bëè bëèttëèr."
+        }
+      ]
+    },
+    {
+      "product_id": "P-1002",
+      "name": "Smäãrtwäãtch",
+      "category": "Wêèáárááblêès",
+      "price": 149.99,
+      "stock": 75,
+      "reviews": []
+    },
+    {
+      "product_id": "P-1003",
+      "name": "Gãåmííng Lãåptóòp",
+      "category": "Côômpûýtëérs",
+      "price": 1299.99,
+      "stock": 30,
+      "reviews": [
+        {
+          "user_id": 102,
+          "rating": 5,
+          "comment": "Rûýns àæll my gàæmèés smôõôõthly!"
+        }
+      ]
+    }
+  ]
+}
