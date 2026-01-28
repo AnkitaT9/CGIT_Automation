@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Bûúy grõócëèrïîëès",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Fïínïísh pròöjëêct rëêpòört",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Càåll mõôm",
+      "completed": false
+    }
+  ]
+}
