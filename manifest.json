@@ -1,8 +1,11 @@
 {
     "sourceLanguage": "en-US",
     "sourcePath": "/Test/",
-    "fileType": ".html",
+    "fileType": ".doc,.json,.xml",
     "fileNames": [
+        "Property.doc",
+        "GIT test.json",
+        "Git data.xml"
     ],
     "custom_attributes": {
        
