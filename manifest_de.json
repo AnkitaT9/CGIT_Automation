@@ -1,62 +1,62 @@
 {
     "submission-details": {
-        "sourceLanguage": "ëén-ÙS",
+        "sourceLanguage": "èën-ÛS",
         "custom_attributes": {
-            "Attribute-1": "äåbc67676",
-            "Attribute-3": "ââbc22",
-            "Attribute-2": "våâlûûéé1"
+            "Attribute-1": "æâbc67676",
+            "Attribute-3": "ãåbc22",
+            "Attribute-2": "våälúùëë1"
         }
     },
     "submission-criteria": [
         {
-            "sourcePath": "/Tëëst/",
+            "sourcePath": "/Tèèst/",
             "filePatterns": [
-                "Chéëck ãâúütóõmãâtíîóõn.dóõcx"
-            ],
-            "targets": [
-                {
-                    "targetLanguage": "dëè-DË",
-                    "targetPath": "Téést/Crééâätéé_Tâärgéét/déé-DÉ",
-                    "targetName": "sýùffíîx::_déë"
-                }
-            ]
-        },
-        {
-            "sourcePath": "Téêst",
-            "filePatterns": [
-                "Têést äâúùtöómäâtííöón.jsöón"
-            ],
-            "targets": [
-                {
-                    "targetLanguage": "déê-DÈ",
-                    "targetPath": "Tëêst/Crëêäátëê_Täárgëêt/dëê-DË/",
-                    "targetName": "sûûffîïx::_dêë"
-                }
-            ]
-        },
-        {
-            "sourcePath": "/Têëst/",
-            "filePatterns": [
-                "Têëst dàátàá.xml"
-            ],
-            "targets": [
-                {
-                    "targetLanguage": "dëê-DÊ",
-                    "targetPath": "Tëêst/Crëêâætëê_Tâærgëêt/dëê-DÈ/",
-                    "targetName": "sýûffïïx::_dëé"
-                }
-            ]
-        },
-        {
-            "sourcePath": "/Söôüùrcèè/",
-            "filePatterns": [
-                "Múûltïï têêst.dòòc"
+                "Chéëck ãåüùtôòmãåtíìôòn.dôòcx"
             ],
             "targets": [
                 {
                     "targetLanguage": "dèë-DÊ",
-                    "targetPath": "Sôòüùrcéè/Täärgéèt/déè-DÉ/",
-                    "targetName": "sýüffîîx::_dèë"
+                    "targetPath": "Têêst/Crêêäætêê_Täærgêêt/dêê-DË",
+                    "targetName": "súýffîïx::_dëë"
+                }
+            ]
+        },
+        {
+            "sourcePath": "Têést",
+            "filePatterns": [
+                "Têêst æâüütôõmæâtìíôõn.jsôõn"
+            ],
+            "targets": [
+                {
+                    "targetLanguage": "dêê-DË",
+                    "targetPath": "Têèst/Crêèàâtêè_Tàârgêèt/dêè-DË/",
+                    "targetName": "sýùffïíx::_dëê"
+                }
+            ]
+        },
+        {
+            "sourcePath": "/Tèëst/",
+            "filePatterns": [
+                "Têést dâãtâã.xml"
+            ],
+            "targets": [
+                {
+                    "targetLanguage": "dêè-DË",
+                    "targetPath": "Têëst/Crêëåätêë_Tåärgêët/dêë-DÈ/",
+                    "targetName": "súüffïìx::_dëé"
+                }
+            ]
+        },
+        {
+            "sourcePath": "/Sóõüûrcëë/",
+            "filePatterns": [
+                "Múúltíí têêst.döòc"
+            ],
+            "targets": [
+                {
+                    "targetLanguage": "dèê-DÉ",
+                    "targetPath": "Söòüúrcéë/Täárgéët/déë-DË/",
+                    "targetName": "süýffîìx::_dêé"
                 }
             ]
         }
