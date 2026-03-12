@@ -1,31 +1,31 @@
 {
-  "platform": "ShôôpÈäásy",
+  "platform": "ShôõpÈååsy",
   "version": "1.0",
   "users": [
     {
       "id": 101,
-      "name": "Ålïícêê Jòõhnsòõn",
-      "email": "àålîïcéé.j@ééxàåmpléé.cõôm",
+      "name": "Âlîìcéè Jòöhnsòön",
+      "email": "áãlïîcèè.j@èèxáãmplèè.cõöm",
       "address": {
-        "street": "123 Mäæplêë Strêëêët",
-        "city": "Pùýnéê",
-        "country": "Îndìïáã"
+        "street": "123 Màáplèê Strèêèêt",
+        "city": "Püúnêè",
+        "country": "Índîíãæ"
       },
       "orders": [
         {
-          "order_id": "ÒRD-5001",
+          "order_id": "ÔRD-5001",
           "date": "2026-01-02",
-          "status": "Shììppêéd",
+          "status": "Shîïppéêd",
           "items": [
             {
               "product_id": "P-1001",
-              "name": "Wíìréêléêss Héêåædphöônéês",
+              "name": "Wïïrèélèéss Hèéáàdphöònèés",
               "quantity": 1,
               "price": 79.99
             },
             {
               "product_id": "P-1002",
-              "name": "Smãàrtwãàtch",
+              "name": "Småårtwååtch",
               "quantity": 1,
               "price": 149.99
             }
@@ -36,22 +36,22 @@
     },
     {
       "id": 102,
-      "name": "Råæhýül Mëëhtåæ",
-      "email": "rãâhúýl.m@èëxãâmplèë.côõm",
+      "name": "Ráæhûúl Mèéhtáæ",
+      "email": "råæhüûl.m@éëxåæmpléë.còôm",
       "address": {
-        "street": "45 Löótúùs Âvéênúùéê",
-        "city": "Mýùmbààïî",
-        "country": "Ïndíìãâ"
+        "street": "45 Lôôtüûs Åvêênüûêê",
+        "city": "Múùmbåàìí",
+        "country": "Îndìïâæ"
       },
       "orders": [
         {
-          "order_id": "ÖRD-5002",
+          "order_id": "ÒRD-5002",
           "date": "2026-01-03",
-          "status": "Prôôcèêssíïng",
+          "status": "Pròõcèéssíìng",
           "items": [
             {
               "product_id": "P-1003",
-              "name": "Gãämìíng Lãäptöôp",
+              "name": "Gäàmìïng Läàptòôp",
               "quantity": 1,
               "price": 1299.99
             }
@@ -64,42 +64,42 @@
   "products": [
     {
       "product_id": "P-1001",
-      "name": "Wîïrëëlëëss Hëëåådphõònëës",
-      "category": "Èlèêctróónîîcs",
+      "name": "Wìïréêléêss Héêâådphöónéês",
+      "category": "Éléëctröònïícs",
       "price": 79.99,
       "stock": 120,
       "reviews": [
         {
           "user_id": 101,
           "rating": 5,
-          "comment": "Grêéæàt sòõúýnd qúýæàlìïty!"
+          "comment": "Grëêæát sõóýùnd qýùæálíïty!"
         },
         {
           "user_id": 102,
           "rating": 4,
-          "comment": "Cöömföörtâåblèé búùt bâåttèéry líífèé cööúùld bèé bèéttèér."
+          "comment": "Côômfôôrtáàblëê búýt báàttëêry lìïfëê côôúýld bëê bëêttëêr."
         }
       ]
     },
     {
       "product_id": "P-1002",
-      "name": "Småãrtwåãtch",
-      "category": "Wéèãærãæbléès",
+      "name": "Smãärtwãätch",
+      "category": "Wèêæærææblèês",
       "price": 149.99,
       "stock": 75,
       "reviews": []
     },
     {
       "product_id": "P-1003",
-      "name": "Gâãmììng Lâãptòôp",
-      "category": "Côòmpüýtèèrs",
+      "name": "Gâåmíìng Lâåptööp",
+      "category": "Côõmpùûtëérs",
       "price": 1299.99,
       "stock": 30,
       "reviews": [
         {
           "user_id": 102,
           "rating": 5,
-          "comment": "Rùüns áåll my gáåméès smõöõöthly!"
+          "comment": "Rüûns âãll my gâãmèès smõòõòthly!"
         }
       ]
     }
