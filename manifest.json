@@ -1,0 +1,20 @@
+{
+    "sourceLanguage": "en-US",
+    "sourcePath": "/Test/",
+    "fileType": ".doc,.json,.xml",
+    "fileNames": [
+        "Property.doc",
+        "GIT test.json",
+        "Git data.xml"
+    ],
+    "custom_attributes": {
+       
+    },
+    "target": [
+        {
+            "targetLanguage": "de-DE",
+            "targetPath": "source/locale"
+        }
+        
+    ]
+}
