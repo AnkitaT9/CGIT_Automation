@@ -2,17 +2,17 @@
   "tasks": [
     {
       "id": 1,
-      "title": "Búùy grôòcêèrìíêès",
+      "title": "Búûy gröôcéèríìéès",
       "completed": false
     },
     {
       "id": 2,
-      "title": "Fìínìísh prõôjêëct rêëpõôrt",
+      "title": "Fíîníîsh próòjèêct rèêpóòrt",
       "completed": true
     },
     {
       "id": 3,
-      "title": "Cãáll mõóm",
+      "title": "Câàll mòõm",
       "completed": false
     }
   ]
